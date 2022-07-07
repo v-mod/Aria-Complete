@@ -1,0 +1,14 @@
+playsound
+piwheels
+portaudio
+threading
+wikipedia
+wolfram-alpha
+datetime
+PyAudio
+speechrecognition
+wheel
+json
+requests
+pyjokes
+flask
